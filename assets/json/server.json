@@ -1,0 +1,280 @@
+{
+   "data":[
+	   {
+		  "grupo":"01",
+		  "nome":"AVESTRUZ",
+		  "image": "/assets/img/animais/aveztruz.png",
+		  "numeros":{
+			 "one": "01",
+			 "two": "02",
+			 "three": "03",
+			 "four": "04"
+		  }
+	   },	   
+	   {
+		  "grupo":"02",
+		  "nome":"ÁGUIA",
+		  "image": "/assets/img/animais/aguia.png",
+		  "numeros":{
+			 "one": "05",
+			 "two": "06",
+			 "three": "07",
+			 "four": "08"
+		  }
+	   },
+	   {
+		  "grupo":"03",
+		  "nome":"BURRO",
+		  "image": "/assets/img/animais/burro.png",
+		  "numeros":{
+			 "one": "09",
+			 "two": "10",
+			 "three": "11",
+			 "four": "12"
+		  }
+	   },	   
+	   {
+		  "grupo":"04",
+		  "nome":"BORBOLETA",
+		  "image": "/assets/img/animais/borboleta.png",
+		  "numeros":{
+			 "one": "13",
+			 "two": "14",
+			 "three": "15",
+			 "four": "16"
+		  }
+	   },
+	   {
+		  "grupo":"05",
+		  "nome":"CACHORRO",
+		  "image": "/assets/img/animais/cachorro.png",
+		  "numeros":{
+			 "one": "17",
+			 "two": "18",
+			 "three": "19",
+			 "four": "20"
+		  }
+	   },
+	   {
+		  "grupo":"06",
+		  "nome":"CABRA",
+		  "image": "/assets/img/animais/cabra.png",
+		  "numeros":{
+			 "one": "21",
+			 "two": "22",
+			 "three": "23",
+			 "four": "24"
+		  }
+	   },
+	   {
+		  "grupo":"07",
+		  "nome":"CARNEIRO",
+		  "image": "/assets/img/animais/carneiro.png",
+		  "numeros":{
+			 "one": "25",
+			 "two": "26",
+			 "three": "27",
+			 "four": "28"
+		  }
+	   },
+	   {
+		  "grupo":"08",
+		  "nome":"CAMELO",
+		  "image": "/assets/img/animais/aveztruz.png",
+		  "numeros":{
+			 "one": "29",
+			 "two": "30",
+			 "three": "31",
+			 "four": "32"
+		  }
+	   },
+	   {
+		  "grupo":"09",
+		  "nome":"COBRA",
+		  "image": "/assets/img/animais/cobra.png",
+		  "numeros":{
+			 "one": "33",
+			 "two": "34",
+			 "three": "35",
+			 "four": "36"
+		  }
+	   },
+	   {
+		  "grupo":"10",
+		  "nome":"COELHO",
+		  "image": "/assets/img/animais/coelho.png",
+		  "numeros":{
+			 "one": "37",
+			 "two": "38",
+			 "three": "39",
+			 "four": "40"
+		  }
+	   },
+	   {
+		  "grupo":"11",
+		  "nome":"CAVALO",
+		  "image": "/assets/img/animais/cavalo.png",
+		  "numeros":{
+			 "one": "41",
+			 "two": "42",
+			 "three": "43",
+			 "four": "44"
+		  }
+	   },
+	   {
+		  "grupo":"12",
+		  "nome":"ELEFANTE",
+		  "image": "/assets/img/animais/elefante.png",
+		  "numeros":{
+			 "one": "45",
+			 "two": "46",
+			 "three": "47",
+			 "four": "48"
+		  }
+	   },
+	   {
+		  "grupo":"13",
+		  "nome":"GALO",
+		  "image": "/assets/img/animais/galo.png",
+		  "numeros":{
+			 "one": "49",
+			 "two": "50",
+			 "three": "51",
+			 "four": "52"
+		  }
+	   },
+	   {
+		  "grupo":"14",
+		  "nome":"GATO",
+		  "image": "/assets/img/animais/gato.png",
+		  "numeros":{
+			 "one": "53",
+			 "two": "54",
+			 "three": "55",
+			 "four": "56"
+		  }
+	   },
+	   {
+		  "grupo":"15",
+		  "nome":"JACARÉ",
+		  "image": "/assets/img/animais/jacare.png",
+		  "numeros":{
+			 "one": "57",
+			 "two": "58",
+			 "three": "59",
+			 "four": "60"
+		  }
+	   },
+	   {
+		  "grupo":"16",
+		  "nome":"LEÃO",
+		  "image": "/assets/img/animais/leao.png",
+		  "numeros":{
+			 "one": "61",
+			 "two": "62",
+			 "three": "63",
+			 "four": "64"
+		  }
+	   },
+	   {
+		  "grupo":"17",
+		  "nome":"MACACO",
+		  "image": "/assets/img/animais/macaco.png",
+		  "numeros":{
+			 "one": "65",
+			 "two": "66",
+			 "three": "67",
+			 "four": "68"
+		  }
+	   },
+	   {
+		  "grupo":"18",
+		  "nome":"PORCO",
+		  "image": "/assets/img/animais/porco.png",
+		  "numeros":{
+			 "one": "69",
+			 "two": "70",
+			 "three": "71",
+			 "four": "72"
+		  }
+	   },
+	   {
+		  "grupo":"19",
+		  "nome":"PAVÃO",
+		  "image": "/assets/img/animais/pavao.png",
+		  "numeros":{
+			 "one": "73",
+			 "two": "74",
+			 "three": "75",
+			 "four": "76"
+		  }
+	   },
+	   {
+		  "grupo":"20",
+		  "nome":"PERU",
+		  "image": "/assets/img/animais/peru.png",
+		  "numeros":{
+			 "one": "77",
+			 "two": "78",
+			 "three": "79",
+			 "four": "80"
+		  }
+	   },
+	   {
+		  "grupo":"21",
+		  "nome":"TOURO",
+		  "image": "/assets/img/animais/touro.png",
+		  "numeros":{
+			 "one": "81",
+			 "two": "82",
+			 "three": "83",
+			 "four": "84"
+		  }
+	   },
+	   {
+		  "grupo":"22",
+		  "nome":"TIGRE",
+		  "image": "/assets/img/animais/tigre.png",
+		  "numeros":{
+			 "one": "85",
+			 "two": "86",
+			 "three": "87",
+			 "four": "88"
+		  }
+	   },
+	   {
+		  "grupo":"23",
+		  "nome":"URSO",
+		  "image": "/assets/img/animais/urso-polar.png",
+		  "numeros":{
+			 "one": "89",
+			 "two": "90",
+			 "three": "91",
+			 "four": "92"
+		  }
+	   },
+
+	   {
+		  "grupo":"24",
+		  "nome":"VEADO",
+		  "image": "/assets/img/animais/veado.png",
+		  "numeros":{
+			 "one": "93",
+			 "two": "94",
+			 "three": "95",
+			 "four": "96"
+		  }
+	   },
+	   {
+		  "grupo":"25",
+		  "nome":"VACA",
+		  "image": "/assets/img/animais/vaca.png",
+		  "numeros":{
+			 "one": "97",
+			 "two": "98",
+			 "three": "99",
+			 "four": "00"
+		  }
+	   }
+	]
+}
