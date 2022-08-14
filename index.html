@@ -11,19 +11,19 @@
     <title>Minha Dezena -::</title>
 </head>
 <body>
-    <div class="container-principal">
+    <div class="container-principal" id="capture">
         <header>
             <div id="topobar">
                 <div class="bloco">
                     <h2 id="titulo-rifa">RIFA DOS BICHOS</h2>
                 </div>
                 <div class="bloco">
-                    <div class="dados">Valor:</div>
-                    <div class="dados">Prêmio:</div>
-                    <div class="dados">Data:</div>
+                    <div class="dados">Valor: R$ 4,00</div>
+                    <div class="dados">Prêmio: R$ 500,00</div>
+                    <div class="dados">Data: 13/08/2022</div>
                 </div>
                 <div class="bloco">
-                    <div class="dados-2">Pag:</div>
+                    <div class="dados-2">Pag: PIX</div>
                     <div class="dados-2">Sorteio: 19hrs</div>
                 </div>
             </div>
@@ -39,10 +39,13 @@
             </div>
         </footer>
     </div>
-
+    <div class="acoes">
+        <button onclick="downloadimage();" style="cursor: pointer" class="btt-dow">BAIXAR</button>
+    </div>
     <!-- JavaScript includes -->
     <script src="https://kit.fontawesome.com/f35f15f80c.js" crossorigin="anonymous"></script>
     <script src="./assets/js/jquery-3.5.1.js"></script>
+	<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
     <script src="./assets/js/myfunctions.js"></script>
     <!-- JavaScript includes -->
 </body>
