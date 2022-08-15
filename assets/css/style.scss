@@ -138,8 +138,10 @@ header,main,footer{
 	#topobar{width: 100%;}
     #mainbar{width: 100%;}
     body{
-        transform: scale(0.1);
+        transform: scale(2,8);
         zoom: 100;
+        padding: 0;
+        margin: 0;
     }
 
 

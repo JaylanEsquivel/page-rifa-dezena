@@ -52,18 +52,31 @@ $(document).ready(function() {
     
 
 function downloadimage(){
+/*
     var now = new Date;
         date_atual = now.getDay() + "_" + now.getDate() + "_" + now.getMonth() + "_" + now.getFullYear();
 
     var container = document.getElementById("capture");
-    html2canvas(container,{allowTaint : false,  scale: 8, x: 210,width: 1200,  height: 1200, windowWidth: 1800,windowHeight: 1800, removeContainer: true, backgroundColor: '#141414'}).then(function(canvas) {
+    html2canvas(container,{allowTaint : false, x: 0,width: 1800,  height: 1800, windowWidth: 1400,windowHeight: 1400, removeContainer: true, backgroundColor: '#141414'}).then(function(canvas) {
         var link = document.createElement("a");
         document.body.appendChild(link);
         link.download = "atualizada-rifa-"+date_atual+".jpg";
         link.href = canvas.toDataURL();
         link.target = "_blank";
         link.click();
-    });
+    });*/
+
+
+
+    var node = document.getElementById('capture');
+
+				 domtoimage.toJpeg(node, { quality: 0.95,style: {'width': '100%'}, width: 1800,height: 1800 })
+				.then(function (dataUrl) {
+					var link = document.createElement('a');
+					link.download = 'my-image-name.jpeg';
+					link.href = dataUrl;
+					link.click();
+				});
 }
 
 $(document).on('click','.bilhete', function(){
